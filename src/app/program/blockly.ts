@@ -372,5 +372,7 @@ export const toolbox: string = `<xml xmlns="http://www.w3.org/1999/xhtml" id="to
     <block type="face_detector_start_stop"></block>
     <block type="face_detector_running"></block>
     <block type="display_on_face"></block>
+    <block type="depth_detector_start_stop"></block>
+    <block type="depth_detector_get_distance"></block>
 </category>
 </xml>`;
