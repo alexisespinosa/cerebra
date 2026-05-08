@@ -375,4 +375,9 @@ export const toolbox: string = `<xml xmlns="http://www.w3.org/1999/xhtml" id="to
     <block type="depth_detector_start_stop"></block>
     <block type="depth_detector_get_distance"></block>
 </category>
+<category name="Hearing Skills" colour="160">
+    <block type="sound_detector_start_stop"></block>
+    <block type="sound_detector_get_direction"></block>
+    <block type="sound_detector_get_voice_activity"></block>
+</category>
 </xml>`;
