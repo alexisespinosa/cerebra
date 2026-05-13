@@ -379,5 +379,7 @@ export const toolbox: string = `<xml xmlns="http://www.w3.org/1999/xhtml" id="to
     <block type="sound_detector_start_stop"></block>
     <block type="sound_detector_get_direction"></block>
     <block type="sound_detector_get_voice_activity"></block>
+    <block type="speech_recognition_start_stop"></block>
+    <block type="speech_recognition_get_text"></block>
 </category>
 </xml>`;
