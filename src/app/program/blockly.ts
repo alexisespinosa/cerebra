@@ -370,6 +370,7 @@ export const toolbox: string = `<xml xmlns="http://www.w3.org/1999/xhtml" id="to
     <block type="say_text"></block>
 </category>
 <category name="Visual Skills" colour="200">
+    <block type="set_emotion"></block>
     <block type="face_detector_start_stop"></block>
     <block type="face_detector_running"></block>
     <block type="display_on_face"></block>
