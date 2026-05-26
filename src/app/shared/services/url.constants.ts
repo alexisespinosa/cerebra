@@ -9,4 +9,5 @@ export enum UrlConstants {
     POSE = "/pose",
     BRICKLET = "/bricklet",
     HOST_IP = "/host-ip",
+    PERSON = "/person",
 }
